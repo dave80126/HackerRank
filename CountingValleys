@@ -22,7 +22,7 @@ def countingValleys(n, s):
 
     return valley
     
-    ''' Provided Code from HackerRank
+    """ Provided Code from HackerRank
     
     if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -37,4 +37,4 @@ def countingValleys(n, s):
 
     fptr.close()
     
-    '''
+    """
